@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#676767</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windowbackground">#FFFFFF</color>
+    <color name="colorBackground">#F7F7F7</color>
+    <color name="colorTextPrimary">@android:color/white</color>
+    <color name="colorTextPrimaryDark">@android:color/black</color>
+    <color name="colorPrimaryGray">#000000</color>
+    <color name="colorPrimaryGrayDark">@color/colorPrimaryGray</color>
+    <color name="btn_pressed">#40000000</color>
+    <color name="btn_default">@android:color/transparent</color>
+    <color name="colorItemTextPrimary">#807c82</color>
+    <color name="colorPlaceHolderTextPrimary">#5b555e</color>
+    <color name="colorHeadTextPrimary">#7c7b7b</color>
+    <color name="colorItemHeadTextPrimary">#514a55</color>
+    <color name="colorHintTextPrimary">#42000000</color>
+    <color name="fab_color">@color/colorAccent</color>
+    <color name="logo_fab_color">@color/colorPrimaryDark</color>
+    <color name="logo_tint_fab_color">@android:color/white</color>
+    <color name="tab_indicator_color">#646464</color>
+    <color name="toolbar_title">#191919</color>
+    <color name="placeholder_tint_color">#AEAEAE</color>
+    <color name="toolbar_background_color">@android:color/white</color>
+    <color name="scanner">#26de26</color>
+    <color name="placeholder_background">#E3E3E3</color>
+    <color name="status_bar_light">#9F9F9F</color>
+    <color name="status_bar_transparent">#60000000</color>
+    <color name="status_bar_dark">@android:color/black</color>
+    <color name="standard_overlay_color">#66000000</color>
+    <color name="bt_black">#001129</color>
+    <!-- Cart -->
+    <color name="cart_red_color">@color/colorPrimary</color>
+    <color name="cart_title_color">@color/colorPrimary</color>
+    <color name="cart_header_background">@android:color/white</color>
+    <color name="cart_total_color">#80FFFFFF</color>
+    <color name="cart_item_title_color">@color/colorPrimaryGray</color>
+    <color name="cart_item_price_color">@color/colorPrimaryGray</color>
+    <color name="cart_item_removing_info_color">@color/colorTextPrimary</color>
+    <color name="cart_item_background_color">@color/colorTextPrimary</color>
+    <color name="cart_item_removing_color">@color/colorAccent</color>
+    <color name="cart_nothing_placeholder_text">@color/colorPlaceHolderTextPrimary</color>
+    <color name="cart_notice_text_color">@color/colorHeadTextPrimary</color>
+    <color name="cart_notice_background">@color/colorTextPrimary</color>
+    <color name="cart_notice_border_color">#ededed</color>
+
+    <!-- Carousel-->
+    <color name="home_carousel_text_active">@android:color/white</color>
+    <color name="home_carousel_text_not_active">@android:color/black</color>
+    <color name="carousel_item_window_bg">@android:color/black</color>
+
+    <!-- Profile screen -->
+    <color name="profile_setting_btn_background">@color/colorPrimaryDark</color>
+    <color name="profile_tab_background">@color/colorTextPrimary</color>
+    <color name="profile_tab_text_inactive">#a6a6a6</color>
+    <color name="profile_tab_text_active">@color/colorPrimaryDark</color>
+    <color name="profile_header_overlay">#f1f4f9</color>
+    <color name="profile_header_user_name_dark">@color/colorPrimaryDark</color>
+    <color name="profile_header_info_text">@color/colorPrimaryDark</color>
+    <color name="profile_header_user_name_light">@android:color/white</color>
+    <color name="profile_header_user_name_guest">@color/colorPrimaryDark</color>
+    <color name="profile_header_user_name">@color/colorPrimaryDark</color>
+    <color name="profile_header_user_name_with_avatar">@android:color/white</color>
+    <color name="profile_header_info">#70ffffff</color>
+    <color name="profile_item_background">#ededed</color>
+
+    <!-- Tutorial screen -->
+    <color name="tutorial_overlay_end">#99000000</color>
+    <color name="tutorial_bottom_buttons_text">#fdfaf7</color>
+    <color name="tutorial_active_dot">#FFFFFF</color>
+    <color name="tutorial_inactive_dot">#68636a</color>
+
+    <!-- Auth screen -->
+    <color name="auth_provider_facebook_background">#4460a0</color>
+    <color name="auth_provider_wechat_background">#2dc100</color>
+    <color name="auth_provider_phone_background">@android:color/white</color>
+    <color name="auth_provider_email_background">@android:color/white</color>
+    <color name="auth_provider_facebook_text">@android:color/white</color>
+    <color name="auth_provider_wechat_text">@android:color/white</color>
+    <color name="auth_provider_phone_text">@color/colorPrimaryGray</color>
+    <color name="auth_provider_email_text">@color/colorPrimaryGray</color>
+    <color name="auth_text_red">@color/colorPrimary</color>
+    <color name="auth_forget">@android:color/white</color>
+    <color name="auth_header">@android:color/white</color>
+    <color name="auth_toolbar">#4d000000</color>
+    <color name="auth_background">#9e9e9e</color>
+
+    <!-- Orders screen -->
+    <color name="orders_category_text">@color/colorPlaceHolderTextPrimary</color>
+    <color name="orders_item_category">#777</color>
+    <color name="orders_item_date_text">@color/colorItemHeadTextPrimary</color>
+    <color name="orders_item_amount_text">@color/colorItemTextPrimary</color>
+    <color name="orders_item_status">#E7B13F</color>
+    <color name="orders_item_status_completed">#54750E</color>
+
+    <!-- Orders screen -->
+    <color name="order_details_item_title">@color/colorTextPrimaryDark</color>
+    <color name="order_details_item_amount">@color/colorItemTextPrimary</color>
+    <color name="order_details_header_text">@color/colorTextPrimaryDark</color>
+    <color name="order_summary_header_background">@android:color/white</color>
+
+    <!-- Order Success screen -->
+    <color name="order_success_background">@color/colorAccent</color>
+    <color name="order_success_message">@android:color/white</color>
+    <color name="order_success_status_message">@android:color/white</color>
+    <color name="order_success_close_text_view">@color/colorTextPrimary</color>
+
+    <!-- Scan result -->
+    <color name="app_label">#958C83</color>
+    <color name="scan_results_item_background">@color/colorTextPrimary</color>
+    <color name="scan_results_item_image_background">@color/colorTextPrimary</color>
+    <color name="scan_results_item_text">@android:color/black</color>
+    <color name="scan_results_best_match">#FF0000</color>
+    <color name="scan_results_header">@android:color/white</color>
+    <color name="result_tab_background">@android:color/white</color>
+    <color name="result_tab_text_active">#000000</color>
+    <color name="result_tab_text_inactive">#979797</color>
+    <color name="result_list_item_background">#FFFFFF</color>
+    <color name="result_product_title">#2b232f</color>
+    <color name="result_product_price">#807c82</color>
+
+    <!-- capture -->
+    <color name="capture_background_color">@android:color/black</color>
+    <color name="close_text_color">@color/colorTextPrimary</color>
+    <color name="instruction_text_color">@color/colorTextPrimary</color>
+    <color name="option_unselected">#504950</color>
+    <color name="option_selected">@color/colorTextPrimary</color>
+    <color name="camera_shutter_color">@color/colorTextPrimary</color>
+
+    <!-- Camera access -->
+    <color name="camera_access_background_color">#728fd4</color>
+    <color name="camera_aceess_shutter_tint_color">#647cba</color>
+    <color name="camera_access_text_color">@color/colorTextPrimary</color>
+    <color name="camera_access_tint_color">#2a2438</color>
+    <color name="camera_aceess_shutter_button_color">@color/colorTextPrimary</color>
+
+    <!-- Collection screen !-->
+    <color name="collection_outfit_celebrity_name">@color/colorTextPrimary</color>
+    <color name="collection_header_title_text">@color/colorTextPrimary</color>
+    <color name="collection_header_collection_text">#ccffffff</color>
+    <color name="collection_header_product_number_text">#b2ffffff</color>
+    <color name="collection_product_item_name_text">@color/colorItemTextPrimary</color>
+    <color name="collection_toolbar_background">#f7f7f7</color>
+    <color name="collection_toolbar_collapsed">#1F1F1F</color>
+    <color name="collection_toolbar_expanded">#FFFFFF</color>
+
+    <!-- Collection screen search !-->
+    <color name="collection_search_product_item_price_text">#26232f</color>
+    <color name="collection_search_product_item_background">@color/colorTextPrimary</color>
+    <color name="collection_search_label_item_text">@color/colorHeadTextPrimary</color>
+    <color name="collection_search_celebrity_item_celebrity_name">#585858</color>
+    <color name="collection_search_celebrity_not_follow">@color/colorTextPrimary</color>
+    <color name="collection_search_celebrity_follow">@color/colorAccent</color>
+    <color name="collection_search_celebrity_not_follow_shadow">#26000000</color>
+    <color name="collection_search_toolbar_icons">@color/colorHintTextPrimary</color>
+    <color name="collection_search_toolbar_background">@color/colorTextPrimary</color>
+    <color name="collection_search_celebrity_followed_text">@color/colorPrimaryGray</color>
+
+    <!-- Product item !-->
+    <color name="product_item_price_text">@color/colorItemTextPrimary</color>
+    <color name="product_item_name_text">@color/colorPrimaryGray</color>
+
+    <!-- Channel screen !-->
+    <color name="channel_tab_text_color">#b2000000</color>
+    <color name="channel_tab_indicator_selected">@android:color/black</color>
+    <color name="channel_tab_indicator">@android:color/transparent</color>
+    <color name="channel_screen_background">#f1f3f8</color>
+    <color name="channel_introduce_title">@color/colorPlaceHolderTextPrimary</color>
+    <color name="channel_details_header">@android:color/white</color>
+    <color name="filter_item_background">@android:color/white</color>
+    <color name="filter_item_borders">#10000000</color>
+
+    <!-- Following screen -->
+    <color name="following_introduce_title">@color/colorPlaceHolderTextPrimary</color>
+    <color name="following_button_white">@color/colorTextPrimary</color>
+
+    <!-- Product detail -->
+    <color name="product_detail_tab_background">@color/colorAccent</color>
+    <color name="product_detail_tab_text_active">@color/colorTextPrimary</color>
+    <color name="product_detail_tab_text_inactive">@color/colorTextPrimary</color>
+    <color name="product_detail_paging_background">@color/colorTextPrimary</color>
+    <color name="product_detail_header_info_background">@color/colorAccent</color>
+    <color name="product_detail_title_color">@color/colorTextPrimary</color>
+    <color name="product_detail_close_text_color">#716975</color>
+    <color name="product_detail_related_title">@color/colorPrimaryGray</color>
+    <color name="product_detail_related_price">@color/colorItemTextPrimary</color>
+    <color name="product_detail_related_item_background">@color/colorTextPrimary</color>
+    <color name="product_detail_info_key_color">@color/colorPrimaryGray</color>
+    <color name="product_detail_info_value_color">@color/colorItemTextPrimary</color>
+    <color name="product_detail_info_background">#edf1f8</color>
+    <color name="product_detail_info_detail_shadow">#ededed</color>
+    <color name="not_active_dot">#aba8ab</color>
+    <color name="active_dot">#68636a</color>
+    <color name="product_detail_dialog_close">@color/colorPrimary</color>
+    <color name="product_detail_dialog_item_title">@color/colorHeadTextPrimary</color>
+    <color name="product_detail_variant_item_title">@color/colorPrimaryGray</color>
+    <color name="product_detail_variant_item_background">@color/colorTextPrimary</color>
+    <color name="product_detail_variant_btn">@android:color/white</color>
+    <color name="product_detail_unavailable_product_border_color">#343434</color>
+    <color name="product_detail_unavailable_product_small_icon_color">#b7b7b7</color>
+    <color name="product_detail_unavailable_product">#c8c8c8</color>
+    <color name="product_detail_placeholder_text">#FF5B555E</color>
+    <color name="product_detail_add_to_cart_btn">@color/colorAccent</color>
+    <color name="product_detail_toolbar_items_background">@color/colorAccent</color>
+
+    <!--Product fullscreen image-->
+    <color name="product_fullscreen_background">@android:color/white</color>
+
+    <!-- Bottom bar-->
+    <color name="bottom_bar">@color/colorTextPrimary</color>
+    <color name="bottom_bar_separator">#dedede</color>
+    <color name="bottomBar_active">@color/colorPrimary</color>
+    <color name="bottomBar_non_active">#868686</color>
+    <color name="bottomBar_non_active_new">#5A6A6C</color>
+
+    <!-- Home screen !-->
+    <color name="home_items_more">@color/colorAccent</color>
+    <color name="home_collection_title">@color/colorPlaceHolderTextPrimary</color>
+    <color name="home_campaign_name">@color/colorTextPrimary</color>
+    <color name="home_campaign_overlay1">#a07bbeb8</color>
+    <color name="home_campaign_overlay2">#a09cb726</color>
+    <color name="home_campaign_overlay3">#a0b76e26</color>
+    <color name="home_campaign_overlay4">#a0B726B2</color>
+    <color name="home_screen_nothing_placeholder_text">#5b555e</color>
+    <color name="home_screen_tab_layout_title">#71ffffff</color>
+    <color name="main_button_shadow">#3d000000</color>
+    <color name="main_button_less_shadow">#11000000</color>
+    <color name="home_tab_image_border_selected">@android:color/black</color>
+    <color name="home_tab_image_border">@android:color/darker_gray</color>
+    <color name="home_tab_title">@android:color/black</color>
+    <color name="home_tab_indicator">@android:color/transparent</color>
+
+    <!-- Screenshot screen -->
+    <color name="screenshot_arrow_tint">@color/colorTextPrimary</color>
+    <color name="screenshot_text">@color/colorTextPrimary</color>
+    <color name="screenshot_bg">@android:color/black</color>
+
+    <!-- celebrity profile -->
+    <color name="celebrity_profile_info_background">@color/colorPrimary</color>
+    <color name="celebrity_profile_button_follow">@color/colorPrimary</color>
+    <color name="celebrity_profile_tab_indicator">@color/colorPrimaryGray</color>
+    <color name="celebrity_profile_tab_text_active">@color/colorPrimaryDark</color>
+    <color name="celebrity_profile_tab_text_inactive">#979797</color>
+    <color name="celebrity_profile_button_follow_background">@color/colorTextPrimary</color>
+    <color name="celebrity_profile_button_follow_text">@color/colorTextPrimary</color>
+    <color name="celebrity_profile_header_title_text">@color/colorTextPrimary</color>
+    <color name="celebrity_profile_title_expanded">#00FFFFFF</color>
+    <color name="celebrity_profile_title_collapsed">#1F1F1F</color>
+    <color name="celebrity_profile_back_color_white">#FFFFFF</color>
+    <color name="celebrity_profile_back_color_black">#1F1F1F</color>
+    <color name="celebrity_profile_header_background">#1B1B1B</color>
+    <color name="celebrity_profile_tabs">@android:color/white</color>
+
+    <!-- Video playing screen -->
+    <color name="video_playing_background">@android:color/black</color>
+    <color name="video_playing_connection_lost_text_color">@color/colorTextPrimary</color>
+    <color name="video_playing_try_again_text_color">@color/colorTextPrimary</color>
+    <color name="video_playing_close_button_color">@color/colorTextPrimary</color>
+    <color name="video_playing_crop_text_color">@color/colorTextPrimary</color>
+    <color name="video_playing_title_text_color">@color/colorTextPrimary</color>
+    <color name="video_playing_current_time_text_color">@color/colorTextPrimary</color>
+    <color name="video_playing_total_time_text_color">@color/colorTextPrimary</color>
+
+    <!-- Settings screen -->
+    <color name="settings_header_color">@color/colorHeadTextPrimary</color>
+    <color name="settings_title_color">@color/colorItemHeadTextPrimary</color>
+    <color name="settings_subtitle_color">@color/colorItemTextPrimary</color>
+    <color name="settings_separator_color">#f1f3f4</color>
+    <color name="settings_badge_green">@color/colorAccent</color>
+
+
+    <!-- settings - address details !-->
+    <color name="address_details_label">@color/colorPlaceHolderTextPrimary</color>
+    <color name="address_detail_optionality_text">#c4c3c4</color>
+    <color name="address_detail_optionality_text_active">@color/colorPlaceHolderTextPrimary</color>
+    <color name="address_detail_control_normal">#ebebeb</color>
+    <color name="address_detail_control_highlight">@color/colorItemTextPrimary</color>
+    <color name="address_detail_form_view_background">@color/colorTextPrimary</color>
+
+    <!-- Settings - Change password -->
+    <color name="change_password_red_button">#c4c3c4</color>
+    <color name="change_password_red_button_active">@color/colorPrimaryGray</color>
+    <color name="change_password_hint_gray">@color/colorHintTextPrimary</color>
+    <color name="change_password_font_color">@color/colorItemTextPrimary</color>
+    <color name="change_password_control_normal">#ebebeb</color>
+    <color name="change_password_gray_separator">#f0e9e6</color>
+    <color name="change_password_edit_text_input">@color/colorItemTextPrimary</color>
+
+    <!-- EditText styles -->
+    <color name="edit_text_hint_gray">@color/colorHintTextPrimary</color>
+    <color name="edit_text_font_color">@color/colorItemTextPrimary</color>
+    <color name="edit_text_control_normal">#ebebeb</color>
+    <color name="edit_text_required_hint_gray">#c4c3c4</color>
+
+    <!-- Add Channel screen -->
+    <color name="add_channel_toolbar_title">#89000000</color>
+    <color name="add_channel_item_black_background">@android:color/black</color>
+    <color name="add_channel_item_white_background">@color/colorTextPrimary</color>
+    <color name="add_channel_item_status_add_background">@color/colorTextPrimary</color>
+    <color name="add_channel_item_status_remove_background">@color/colorPrimary</color>
+    <color name="add_channel_item_status_remove_text">@color/colorTextPrimary</color>
+    <color name="add_channel_item_status_add_text">@color/colorPrimary</color>
+    <color name="channel_screen_title_text">@android:color/black</color>
+
+    <!-- Login -->
+    <color name="login_hint_gray">@color/colorHintTextPrimary</color>
+    <color name="login_background_red">@color/colorPrimary</color>
+    <color name="login_image_background">@color/colorTextPrimary</color>
+    <color name="login_background_black">@color/colorPrimaryGray</color>
+    <color name="bt_light_gray">#757575</color>
+    <!-- Settings Edit Details -->
+    <color name="settings_edit_details_content">@color/colorTextPrimary</color>
+    <color name="settings_edit_details_header_overlay_start">#30000000</color>
+    <color name="settings_edit_details_header_overlay_end">#10000000</color>
+    <color name="settings_edit_details_header_edit_button">@color/colorTextPrimary</color>
+    <color name="settings_edit_details_edit_text">@color/colorItemTextPrimary</color>
+    <color name="settings_edit_details_hint_edit_text">@color/colorTextPrimary</color>
+    <color name="settings_edit_details_button">#c4c3c4</color>
+    <color name="settings_edit_details_button_active">@color/colorPrimaryGray</color>
+
+
+    <!-- Checkout screen -->
+    <color name="checkout_header_background">@color/colorTextPrimary</color>
+    <color name="checkout_order_label">@color/colorItemHeadTextPrimary</color>
+    <color name="checkout_date_label">@color/colorItemTextPrimary</color>
+    <color name="checkout_policy_label">@color/colorItemTextPrimary</color>
+    <color name="checkout_order_value_label">@color/colorPrimaryGray</color>
+    <color name="checkout_pay_card">@color/colorPlaceHolderTextPrimary</color>
+    <color name="checkout_buy">@color/colorPrimary</color>
+    <color name="checkout_buy_disable">#6d6d6d</color>
+    <color name="checkout_total">@color/colorPrimary</color>
+    <color name="checkout_total_save">@color/colorTextPrimary</color>
+
+    <!-- Login Dialog -->
+    <color name="login_dialog_black">#de000000</color>
+    <color name="login_dialog_grey">@color/colorHintTextPrimary</color>
+    <color name="login_dialog_button">@color/colorAccent</color>
+
+    <!-- Search items !-->
+    <color name="search_suggest_item_text_normal">#777777</color>
+    <color name="search_suggest_item_text_higlighted">#585858</color>
+    <color name="search_recent_item_text_normal">#585858</color>
+    <color name="search_toolbar_shadow">#3d000000</color>
+
+    <!-- Social feed post detail !-->
+    <color name="social_feed_post_detail_celebrity_name">#FFFFFF</color>
+    <color name="social_feed_post_detail_description_background">#FFFFFF</color>
+    <color name="social_feed_post_detail_description_text">#2b232f</color>
+
+    <!-- HOME TRENDING ITEMS !-->
+    <color name="trending_event_item_title">#000000</color>
+
+    <color name="article_item_frame">#CBCBCB</color>
+
+    <!--MAGAZINE DETAILS -->
+    <color name="magazine_details_description_color">#2b232f</color>
+    <color name="white_three">#f7f7f7</color>
+    <color name="black_transparent">#66000000</color>
+    <color name="purplishGrey">#5b555e</color>
+    <color name="magazine_details_collapsed">#1F1F1F</color>
+    <color name="magazine_details_expanded">#00ffffff</color>
+
+    <!-- VIDEOS SCREEN !-->
+    <color name="video_description_text">#2B232F</color>
+
+    <!-- Select Language screen -->
+    <color name="change_language_item_text">#585858</color>
+    <color name="change_language_separator_color">#d8d8d8</color>
+
+    <!-- Home TV Series Detail screen !-->
+    <color name="tv_series_detail_video_item_text">@color/colorTextPrimary</color>
+    <color name="tv_series_detail_video_item_total_time">#44000000</color>
+    <color name="tv_series_detail_video_item_start_gradient">@color/colorPrimaryDark</color>
+    <color name="tv_series_detail_video_item_end_gradient">#ededed</color>
+    <color name="tv_series_detail_header_item_text">#5b555e</color>
+    <color name="tv_series_detail_header_overlay_background">#40000000</color>
+    <color name="tv_series_detail_header_shadow">#68848484</color>
+
+    <!-- Channel profile screen -->
+    <color name="channel_profile_tab_text_active">#000000</color>
+    <color name="channel_profile_tab_text_inactive">#979797</color>
+    <color name="channel_profile_tab_indicator_color">#000000</color>
+    <color name="progress_bg">#7dffffff</color>
+    <color name="address_detail_background">#FFFFFF</color>
+
+    <!-- Event Details -->
+    <color name="event_details_header_title_text">@color/colorTextPrimary</color>
+    <color name="event_details_title_expanded">@android:color/transparent</color>
+    <color name="event_details_title_collapsed">#1F1F1F</color>
+    <color name="delete_inselect_mode">#979797</color>
+    <color name="delete_select_mode">#000000</color>
+    <color name="order_complete_status">#54750E</color>
+    <color name="order_incomplete_status">#E7B13F</color>
+    <color name="bt_red">#DD5555</color>
+
+    <color name="colorPrimary1">#014360</color>
+    <color name="colorPrimaryDark1">#002E43</color>
+    <color name="colorAccent1">#00AE3B</color>
+
+</resources>
